@@ -1,5 +1,5 @@
 basic:
-    name: 'Kessler, Casper and Hayes'
+    name: 'Donnelly Group'
     environments:
         production: 'https://GOOGLE.com'
         staging: ''
